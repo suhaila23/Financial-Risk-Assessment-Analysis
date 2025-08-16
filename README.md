@@ -30,11 +30,13 @@ Key Features
 • Provided insights to support better lending decisions.
 
  Dataset
+ # 📂 Dataset
 
-This project uses the Financial Risk Assessment dataset from Kaggle, containing loan application records for 15,000 individuals.  
-The dataset includes demographic, employment, and financial variables that influence an applicant’s credit risk rating.  
+Source: https://www.kaggle.com/datasets/preethamgouda/financial-risk
+Size: 15,000 loan application records
 
- Key Details:
+Key Details:
+ 
 • Employment Status → Employed, Self-employed, Unemployed  
 • Credit Score & Category → Excellent, Good, Fair, Poor  
 •Loan Amount & Purpose → Personal, Business, Home, Auto  
