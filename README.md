@@ -13,6 +13,8 @@ A cross-platform analytics project using Python, R, and Tableau to study financi
 * Support responsible and strategic lending through data-driven recommendations
 
 Tools & Technologies
+---
+
 
 * Python– Data cleaning, preprocessing, EDA (pandas, matplotlib, seaborn, plotly)  
 * R Programming – Statistical hypothesis testing (t.test, aov, chisq.test, Z-test, F-test)  
@@ -24,6 +26,8 @@ Project Files
 * Financial Risk Assessment-Statistical Testing.R→ R scripts for hypothesis testing
 
 Key Features
+---
+
 
 • Cleaned and processed loan applicant data.  
 • Performed hypothesis testing to check statistical significance.  
@@ -31,8 +35,9 @@ Key Features
 • Built an interactive Tableau dashboard for trend exploration.  
 • Provided insights to support better lending decisions.
 
+ 
  Dataset
- # 📂 Dataset
+ ---
 
 Source: https://www.kaggle.com/datasets/preethamgouda/financial-risk
 Size: 15,000 loan application records
