@@ -11,6 +11,7 @@ A cross-platform analytics project using Python, R, and Tableau to study financi
 * Support responsible and strategic lending through data-driven recommendations
 
 Tools & Technologies
-* Python → Data cleaning, preprocessing, feature engineering, and exploratory data analysis (EDA) using libraries like pandas, matplotlib, and seaborn.  
-* R Programming → Statistical hypothesis testing, including T-test, Z-test, F-test, ANOVA, and Chi-square, to validate patterns identified during EDA.  
-* Tableau → Creation of interactive dashboards and visual storytelling for decision-makers.
+
+* Python– Data cleaning, preprocessing, EDA (pandas, matplotlib, seaborn, plotly)  
+* R Programming – Statistical hypothesis testing (t.test, aov, chisq.test, Z-test, F-test)  
+* Tableau – Interactive dashboards & KPI visualization
