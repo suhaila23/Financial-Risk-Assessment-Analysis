@@ -3,6 +3,8 @@ A cross-platform analytics project using Python, R, and Tableau to study financi
 
 
  Objectives
+ ---
+ 
 
 * Identify the key factors influencing loan applicants’ financial risk.  
 * Analyze relationships between demographic, employment, and financial variables.  
