@@ -1,6 +1,6 @@
 
 
-<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/53bebce8-c0bf-424f-9d33-01af5de3b7f8" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/501196ec-a9bc-4255-b8fc-6461af54e67d" />
 
 Financial Risk Assessment Analysis is a comprehensive data analytics project that explores how key factors—such as employment status, credit score, income, loan purpose, age group, and geographic location—influence the financial risk of loan applicants.Leveraging Python for data cleaning and exploratory analysis, R for statistical validation, and Tableau for interactive dashboards, the project uncovers critical insights into risk behavior among 15,000 applicants.Findings highlight that unemployed applicants, certain loan purposes (business/personal), and middle-aged groups (40–49 years) are more prone to high financial risk. Through advanced analytics and visual storytelling, the project enables banks and financial institutions to make more accurate, responsible, and data-driven lending decisions.
 
