@@ -15,3 +15,32 @@ Tools & Technologies
 * Python– Data cleaning, preprocessing, EDA (pandas, matplotlib, seaborn, plotly)  
 * R Programming – Statistical hypothesis testing (t.test, aov, chisq.test, Z-test, F-test)  
 * Tableau – Interactive dashboards & KPI visualization
+
+Project Files
+* Remote Work and Mental Health Analysis.ipynb → Python data cleaning, preparation, and EDA  
+* Remote Work and Mental Health Dashboard.twb → Tableau dashboard  
+* Remote Work and Mental Health - Statistical Testing.R → R scripts for hypothesis testing
+
+Key Features
+• Cleaned and processed loan applicant data.  
+• Performed hypothesis testing to check statistical significance.  
+• Created new features for better risk analysis.  
+• Built an interactive Tableau dashboard for trend exploration.  
+• Provided insights to support better lending decisions.
+
+ Dataset
+
+This project uses the Financial Risk Assessment dataset from Kaggle, containing loan application records for 15,000 individuals.  
+The dataset includes demographic, employment, and financial variables that influence an applicant’s credit risk rating.  
+
+ Key Details:
+• Employment Status → Employed, Self-employed, Unemployed  
+• Credit Score & Category → Excellent, Good, Fair, Poor  
+•Loan Amount & Purpose → Personal, Business, Home, Auto  
+• Income Level & Asset Value 
+• Age & Age Group → 18–24, 25–34, 35–44, 45–54, 55–64, 65–74  
+• Geographic Location→ State  
+• Risk Rating → Low, Medium, High.This dataset was used for:  Python → Data cleaning & EDA,R → Statistical hypothesis testing, 
+Tableau → Dashboard creation.
+
+
