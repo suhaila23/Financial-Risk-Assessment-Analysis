@@ -1,63 +1,5 @@
-<?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20194.20.0119.2058                               -->
-<workbook original-version='18.1' source-build='2019.4.2 (20194.20.0119.2058)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
-  <document-format-change-manifest>
-    <AutoCreateAndUpdateDSDPhoneLayouts ignorable='true' predowngraded='true' />
-    <BasicButtonObject />
-    <CascadingFilters />
-    <MapboxVectorStylesAndLayers />
-    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
-    <SortTagCleanup />
-    <WindowsPersistSimpleIdentifiers />
-    <WorksheetBackgroundTransparency />
-    <ZoneBackgroundTransparency />
-  </document-format-change-manifest>
-  <preferences>
-    <preference name='ui.encoding.shelf.height' value='24' />
-    <preference name='ui.shelf.height' value='26' />
-  </preferences>
-  <datasources>
-    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
-      <aliases enabled='yes' />
-      <column caption='constant' datatype='real' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='700.0'>
-        <calculation class='tableau' formula='700.0' />
-      </column>
-    </datasource>
-    <datasource caption='financial_risk_assessment' inline='true' name='federated.133fnmm0ae4c0k13kyc5x0f66c0e' version='18.1'>
-      <connection class='federated'>
-        <named-connections>
-          <named-connection caption='financial_risk_assessment' name='textscan.0eb0zvv0riyofb1gz66s311k1xln'>
-            <connection class='textscan' directory='C:/Users/LENOVO/Downloads' filename='financial_risk_assessment.csv' password='' server='' />
-          </named-connection>
-        </named-connections>
-        <relation connection='textscan.0eb0zvv0riyofb1gz66s311k1xln' name='financial_risk_assessment.csv' table='[financial_risk_assessment#csv]' type='table'>
-          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
-            <column datatype='integer' name='Age' ordinal='0' />
-            <column datatype='string' name='Gender' ordinal='1' />
-            <column datatype='string' name='Education Level' ordinal='2' />
-            <column datatype='string' name='Marital Status' ordinal='3' />
-            <column datatype='integer' name='Income' ordinal='4' />
-            <column datatype='integer' name='Credit Score' ordinal='5' />
-            <column datatype='integer' name='Loan Amount' ordinal='6' />
-            <column datatype='string' name='Loan Purpose' ordinal='7' />
-            <column datatype='string' name='Employment Status' ordinal='8' />
-            <column datatype='integer' name='Years at Current Job' ordinal='9' />
-            <column datatype='string' name='Payment History' ordinal='10' />
-            <column datatype='real' name='Debt-to-Income Ratio' ordinal='11' />
-            <column datatype='integer' name='Assets Value' ordinal='12' />
-            <column datatype='integer' name='Number of Dependents' ordinal='13' />
-            <column datatype='string' name='City' ordinal='14' />
-            <column datatype='string' name='State' ordinal='15' />
-            <column datatype='string' name='Country' ordinal='16' />
-            <column datatype='integer' name='Previous Defaults' ordinal='17' />
-            <column datatype='string' name='Risk Rating' ordinal='18' />
-          </columns>
-        </relation>
-        <metadata-records>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
+ 
             <parent-name>[financial_risk_assessment.csv]</parent-name>
             <remote-alias />
             <aggregation>Count</aggregation>
@@ -3455,3 +3397,4 @@
     </thumbnail>
   </thumbnails>
 </workbook>
+
