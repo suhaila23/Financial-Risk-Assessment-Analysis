@@ -7,17 +7,14 @@ Financial Risk Assessment Analysis is a comprehensive data analytics project tha
  Objectives
  ---
  
-
-* Identify the key factors influencing loan applicants’ financial risk.  
-* Analyze relationships between demographic, employment, and financial variables.  
-* Validate patterns using statistical hypothesis testing.  
+* Identify key factors (employment, income, credit score, loan purpose, demographics, and region) influencing loan applicants’ financial risk.
+* Compare risk profiles across age groups, job categories, and regions.
+* Explore the relationship between loan purpose, credit score, and default risk. 
+* Validate findings using statistical hypothesis testing (T-test, ANOVA, Z-test, Chi-square, F-test).  
 * Visualize insights through an interactive Tableau dashboard for decision-makers.  
-* Support responsible and strategic lending through data-driven recommendations
 
 Tools & Technologies
 ---
-
-
 * Python– Data cleaning, preprocessing, EDA (pandas, matplotlib, seaborn, plotly)  
 * R Programming – Statistical hypothesis testing (t.test, aov, chisq.test, Z-test, F-test)  
 * Tableau – Interactive dashboards & KPI visualization
@@ -31,8 +28,6 @@ Project Files
 
 Key Features
 ---
-
-
 • Cleaned and processed loan applicant data.  
 • Performed hypothesis testing to check statistical significance.  
 • Created new features for better risk analysis.  
@@ -45,7 +40,6 @@ Key Features
  ---
 
 Source: https://www.kaggle.com/datasets/preethamgouda/financial-risk
-
 Size: 15,000 loan application records
 
 Key Details:
