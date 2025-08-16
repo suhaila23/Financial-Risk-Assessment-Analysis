@@ -21,6 +21,8 @@ Tools & Technologies
 * Tableau – Interactive dashboards & KPI visualization
 
 Project Files
+---
+
 * Financial risk assessment Analysis.ipynb → Python data cleaning, preparation, and EDA  
 * Financial Risk Asessment Dashboard.twb → Tableau dashboard  
 * Financial Risk Assessment-Statistical Testing.R→ R scripts for hypothesis testing
