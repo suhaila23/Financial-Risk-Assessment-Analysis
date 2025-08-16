@@ -42,6 +42,7 @@ Key Features
  ---
 
 Source: https://www.kaggle.com/datasets/preethamgouda/financial-risk
+
 Size: 15,000 loan application records
 
 Key Details:
