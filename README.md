@@ -38,8 +38,7 @@ Key Features
 • Built an interactive Tableau dashboard for trend exploration.  
 • Provided insights to support better lending decisions.
 
- ![Uploading image.png…]()
-
+ <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/97e6d37b-2d55-4192-83bb-b26f93867d1e" />
  Dataset
  ---
 
