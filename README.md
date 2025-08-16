@@ -1,4 +1,7 @@
-![Image](https://github.com/user-attachments/assets/0a59a6a2-560d-4b86-b69c-caa3cc2552dd)
+
+
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/53bebce8-c0bf-424f-9d33-01af5de3b7f8" />
+
 
  Objectives
  ---
