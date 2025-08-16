@@ -53,7 +53,7 @@ Key Details:
 • Income Level & Asset Value 
 • Age & Age Group → 18–24, 25–34, 35–44, 45–54, 55–64, 65–74  
 • Geographic Location→ State  
-• Risk Rating → Low, Medium, High.This dataset was used for:  Python → Data cleaning & EDA,R → Statistical hypothesis testing, 
-  Tableau → Dashboard creation.
+• Risk Rating → Low, Medium, High.
+This dataset was used for:  Python → Data cleaning & EDA,R → Statistical hypothesis testing, Tableau → Dashboard creation.
 
 
