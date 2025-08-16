@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/ff1962b5-1de8-4614-a005-dcebbf336200)
-
+![Image](https://github.com/user-attachments/assets/0a59a6a2-560d-4b86-b69c-caa3cc2552dd)
 
  Objectives
  ---
