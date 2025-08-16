@@ -22,6 +22,7 @@ Project Files
 * Remote Work and Mental Health - Statistical Testing.R → R scripts for hypothesis testing
 
 Key Features
+
 • Cleaned and processed loan applicant data.  
 • Performed hypothesis testing to check statistical significance.  
 • Created new features for better risk analysis.  
