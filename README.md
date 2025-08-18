@@ -29,11 +29,11 @@ Project Files
 
 Key Features
 ---
-• Cleaned and processed loan applicant data.  
-• Performed hypothesis testing to check statistical significance.  
-• Created new features for better risk analysis.  
-• Built an interactive Tableau dashboard for trend exploration.  
-• Provided insights to support better lending decisions.
+- Cleaned and processed loan applicant data.  
+- Performed hypothesis testing to check statistical significance.  
+- Created new features for better risk analysis.  
+- Built an interactive Tableau dashboard for trend exploration.  
+- Provided insights to support better lending decisions.
 
 ## **Dashboard Preview**
 
