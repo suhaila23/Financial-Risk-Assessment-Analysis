@@ -52,6 +52,7 @@ Key Details:
 • Credit Score & Category → Excellent, Good, Fair, Poor  
 •Loan Amount & Purpose → Personal, Business, Home, Auto  
 • Income Level & Asset Value 
+
 • Age & Age Group → 18–24, 25–34, 35–44, 45–54, 55–64, 65–74  
 • Geographic Location→ State  
 • Risk Rating → Low, Medium, High.
